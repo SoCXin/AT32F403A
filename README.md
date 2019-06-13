@@ -17,6 +17,10 @@
 * [文档](docs/)
 * [资源](src/)
 
+### [相关收录](https://github.com/sochub/STM32F0)
+
+* [STM32F051 freeRTOS](https://github.com/sochub/STM32F051)
+
 ### [选型建议](https://github.com/sochub/STM32F0)
 
 STM32F0x0超值系列在传统8位和16位市场极具竞争力，并可使用户免于不同架构平台迁徙和相关开发带来的额外工作。
