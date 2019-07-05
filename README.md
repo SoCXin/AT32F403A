@@ -1,8 +1,6 @@
 ﻿# [STM32F0](https://github.com/sochub/STM32F0)
-
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 #### 厂商：[ST](https://github.com/sochub/ST)
-#### 父级：[STM32](https://github.com/sochub/STM32)
 #### 架构：[cortex M0](https://github.com/sochub/CM0)
 
 ## [描述](https://github.com/sochub/STM32F0/wiki) 
@@ -17,9 +15,11 @@
 * [文档](docs/)
 * [资源](src/)
 
-### [相关收录](https://github.com/sochub/STM32F0)
+### [收录型号](https://github.com/sochub/STM32F0)
 
-* [STM32F051 freeRTOS](https://github.com/sochub/STM32F051)
+* [STM32F030](https://github.com/sochub/STM32F030)
+* [STM32F051](https://github.com/sochub/STM32F051)
+* [STM32F072](https://github.com/sochub/STM32F072)
 
 ### [选型建议](https://github.com/sochub/STM32F0)
 
