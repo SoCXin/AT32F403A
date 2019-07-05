@@ -21,7 +21,9 @@
 * [STM32F051](https://github.com/sochub/STM32F051)
 * [STM32F072](https://github.com/sochub/STM32F072)
 
-### [选型建议](https://github.com/sochub/STM32F0)
+### [选型建议](https://github.com/sochub)
+
+[STM32F0](https://github.com/sochub/STM32F0)系列是入门级32位MCU，ST相同定位的最新产品有[STM32G0](https://github.com/sochub/STM32G0)，都是主打最佳性价比。
 
 STM32F0x0超值系列在传统8位和16位市场极具竞争力，并可使用户免于不同架构平台迁徙和相关开发带来的额外工作。
 
@@ -30,7 +32,5 @@ STM32F0x0超值系列在传统8位和16位市场极具竞争力，并可使用�
 STM32F0x1系列MCU实现了高度的功能集成，提供多种存储容量和封装的选择，为成本敏感型应用带来了更加灵活的选择。
 
 STM32F0x2系列微控制器通过无晶振USB 2.0和CAN总线接口提供了丰富的通信接口，使它成为通信网关、智能能源器件或游戏终端的理想选择。
-
-工作电压为1.8V ± 8%的STM32F0x8系列MCU非常适合用于智能电话、配件及多媒体设备等便携式消费类应用。
 
 ###  [SoC资源平台](http://www.qitas.cn)
