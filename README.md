@@ -1,13 +1,15 @@
 ﻿# [STM32F0](https://github.com/sochub/STM32F0)
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 厂商：[ST](https://github.com/sochub/ST)
-#### 架构：[cortex M0](https://github.com/sochub/CM0)
+[![sites](http://182.61.61.133/link/resources/docs.png)](https://stop.stops.top) 
+
+#### [Vendor](https://github.com/sochub/Vendor)：[ST](https://github.com/sochub/ST)
+#### [Cortex](https://github.com/sochub/Cortex)：[cortex M0](https://github.com/sochub/CM0)
+#### [Level](https://github.com/sochub/Level)：48MHz 
 
 ## [描述](https://github.com/sochub/STM32F0/wiki) 
 
 [ST](https://github.com/sochub/ST) 意法半导体基于ARM Cortex®-M0的STM32 F0系列单片机实现了32位性能，同时传承了STM32系列的重要特性，特别适合成本敏感型应用。
 
-[![sites](SoC/STM32F0.jpg)](https://www.st.com/zh/microcontrollers-microprocessors/stm32f0-series.html) 
+[![sites](docs/STM32F0.jpg)](https://www.st.com/zh/microcontrollers-microprocessors/stm32f0-series.html) 
 
 
 ### [资源收录](https://github.com/sochub/STM32F0)
