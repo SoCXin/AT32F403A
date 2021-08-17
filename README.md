@@ -3,13 +3,11 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 * [arterytek](https://www.arterytek.com/cn/index.jsp): [Cortex-M4](https://github.com/SoCXin/Cortex)
-* [L4R3](https://github.com/SoCXin/Level): 240 MHz x 1.25 DMIPS/MHz
+* [L5R4](https://github.com/SoCXin/Level): 240 MHz x 1.25 DMIPS/MHz
 
 ## [简介](https://github.com/SoCXin/AT32F403A/wiki)
 
-[AT32F403A](https://github.com/SoCXin/AT32F403A)
-
-[![sites](docs/AT32F403A.svg)](https://www.arterytek.com/cn/product/AT32F403A.jsp#Resource)
+[![sites](docs/AT32F403A.png)](https://www.arterytek.com/cn/product/AT32F403A.jsp?t=1629178040809)
 
 ### 关键特性
 
@@ -33,12 +31,10 @@
 
 #### 封装规格
 
+* LQFP100 14 x 14 mm
+* LQFP64 10 x 10 mm
 * LQFP48 7 x 7 mm
-* LQFP32 7 x 7 mm
-* QFN32 5 x 5 mm
-* QFN32 4 x 4 mm
-* QFN28 4 x 4 mm
-* TSSOP20 6.5 x 4.4 mm
+* QFN48 6 x 6 mm
 
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
